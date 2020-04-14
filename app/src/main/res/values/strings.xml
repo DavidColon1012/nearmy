@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Nearmy</string>
+    <string name="loging_red_social">Inicia con tu red social favorita</string>
+    <string name="loging_sin_registro">O inicia sin mas</string>
+    <string name="cancel">Cancelar</string>
+    <string name="login">Iniciar</string>
+    <string name="social_network">Red social</string>
+    <string name="que_te_interesa">Que te interesa</string>
+    <string name="dejame_recomendarte">Dejame recomendarte</string>
+    <string-array name="eventos">
+        <item>Evento 1</item>
+        <item>Evento 2</item>
+        <item>Lugar 1</item>
+        <item>Lugar 2</item>
+        <item>Evento 3</item>
+    </string-array>
+</resources>
